@@ -1,0 +1,56 @@
+
+.leftnav li{
+
+    list-style: none;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-bottom: 3px;
+    
+    
+
+}
+.leftnav li:hover{
+    background-color: #D9D9D9;
+    
+}
+
+.card-body a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.leftnav a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.leftnav a:hover{
+    font-weight: bold;
+}
+
+
+.leftnav ul{
+
+    padding: 0;
+    width: 100%;
+
+}
+
+.card-body:hover {
+
+    background-color: #D9D9D9;
+
+}
+
+.banner {
+
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    
+ 
+}
